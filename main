@@ -4,5 +4,8 @@ function learnrestful():
     print('hello world')
     
     
+function newfuncton():
+    pass
+
 if __name__== "__main__":
     learnrestful()
