@@ -1,0 +1,19 @@
+  ID  Name                    Pool ID  Capacity   Health Status  Running Status  Type   WWN                               Is Add To Lun Group  Smart Cache Partition ID  DIF Switch  Vstore ID  
+  --  ----------------------  -------  ---------  -------------  --------------  -----  --------------------------------  -------------------  ------------------------  ----------  ---------  
+  0   vFaantx9Ssi9iCE-51XYCg  2        500.000GB  Normal         Online          Thick  6289e97100d7058d0529eb8e00000000  Yes                  --                        No          --         
+  26  ALkoiiTWT4KbXovlZDxgeQ  0        100.000GB  Normal         Online          Thick  6289e97100d7058d166ff3cf0000001a  Yes                  --                        No          --         
+  27  w09Z5xElRyOaDwKl8G75yw  0        769.000GB  Normal         Online          Thick  6289e97100d7058d166ff94d0000001b  Yes                  --                        No          --         
+  28  GvcQrUbSQDqpHxm0aeAyLQ  0        100.000GB  Normal         Online          Thick  6289e97100d7058d166ffdd40000001c  Yes                  --                        No          --         
+  29  tVpVg9KQR3CEtbvwxgy8lg  0        526.000GB  Normal         Online          Thick  6289e97100d7058d166ffe080000001d  Yes                  --                        No          --         
+  30  yfnIstQ6SfiYRT0sztU5YA  2        526.000GB  Normal         Online          Thick  6289e97100d7058d166ffe180000001e  Yes                  --                        No          --         
+  31  sYkDSQGfSoSVju_V8CYcAg  0        100.000GB  Normal         Online          Thick  6289e97100d7058d166ffe810000001f  Yes                  --                        No          --         
+  32  pGkD33ZdRYif4t2ghBFMhA  2        100.000GB  Normal         Online          Thick  6289e97100d7058d166fff4d00000020  Yes                  --                        No          --         
+  33  v8A0j1zmRCKGDi1BqngN7Q  0        516.000GB  Normal         Online          Thick  6289e97100d7058d166fff6b00000021  Yes                  --                        No          --         
+  34  _rVrNt0wRrygL-rS0Hl4_Q  2        100.000GB  Normal         Online          Thick  6289e97100d7058d1670035300000022  Yes                  --                        No          --         
+  35  IWn5LVBjQm6qW8-q0nyjNQ  0        526.000GB  Normal         Online          Thick  6289e97100d7058d167003a800000023  Yes                  --                        No          --         
+  36  qiaFFMVsTv6weAFd5wqxzQ  2        100.000GB  Normal         Online          Thick  6289e97100d7058d1670043000000024  Yes                  --                        No          --         
+  37  WGAwjsuVSPeyv0quPu1IuQ  2        100.000GB  Normal         Online          Thick  6289e97100d7058d1670050400000025  Yes                  --                        No          --         
+  38  -qYeFU31QO261u3Q035aIQ  0        100.000GB  Normal         Online          Thick  6289e97100d7058d1670090300000026  Yes                  --                        No          --         
+  39  7Dl1Bl4BROCluQLK4FLhow  2        100.000GB  Normal         Online          Thick  6289e97100d7058d167009a400000027  Yes                  --                        No          --         
+  42  AdN5FGVPR3OZEQRg2q26sQ  1         92.000GB  Normal         Online          Thick  6289e97100d7058d1b0e553f0000002a  Yes                  --                        No          --         
+  43  zn9NOO6tSyWMW2pK3UR3cg  1        256.000GB  Normal         Online          Thick  6289e97100d7058d1b0e7a810000002b  Yes                  --                        No          --         

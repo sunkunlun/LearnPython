@@ -1,0 +1,5 @@
+  ID  Name           Disk Domain ID  Health Status  Running Status  Total Capacity  Free Capacity  Usage Type  
+  --  -------------  --------------  -------------  --------------  --------------  -------------  ----------  
+  0   ManagerPool01  0               Normal         Online                 9.230TB        6.555TB  LUN         
+  1   ManagerPool03  1               Normal         Online                 4.632TB        4.292TB  LUN         
+  2   ManagerPool05  2               Normal         Online                 9.266TB        7.774TB  LUN  

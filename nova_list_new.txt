@@ -1,0 +1,7 @@
+FS01-DT-RN01-Host01:~ # nova list --all-t |grep -v "\--" | cut -d'|' -f2,3
+
+
+ 
+ 
+ os.popen("nova list --all-t |grep -v '\--'| cut -d'|' -f2,3").read().split("|")
+ 
